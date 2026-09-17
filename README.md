@@ -1,4 +1,3 @@
-Markdown
 # Dashboard Analítico de Gestão Financeira
 
 ## Visualização do Dashboard
